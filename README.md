@@ -16,5 +16,5 @@ Assuming Rust lang and cargo are installed:
 
 ## Future Goals
 
-[] Add feature to allow communication between users
-[] Have server disconnect idle users
+- [] Add feature to allow communication between users
+- [] Have server disconnect idle users
